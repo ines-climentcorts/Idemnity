@@ -1,0 +1,88 @@
+ @import url("https://fonts.googleapis.com/css?family=Lora");
+
+@import url("components/container.css");
+
+@import url("components/Avatar.css");
+
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+
+@import url("components/card.css");
+
+ body {
+ 	font-family: 'lora';
+ 	font-size: 18px;
+ 	font-weight: bold;
+ 	margin: 0px;
+
+
+ }
+
+ a {
+ 	text-decoration: none;
+ 	
+ }
+
+
+
+
+
+ body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header, footer {
+    background: #005aaa;
+    color: #ffffff;
+}
+
+.centered-content {
+    text-align: center;
+    margin: auto;
+}
+
+.img-circle {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+section {
+    padding: 20px;
+    margin: 20px 0;
+}
+
+footer {
+    padding: 15px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
